@@ -10,6 +10,9 @@ class App extends Component {
                 <TextInput
 
                 />
+                <TextInput
+
+                />
 
 
             </View>
