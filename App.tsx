@@ -8,6 +8,7 @@ class App extends Component {
         return (
             <View style={estilos.area}>
                 <TextInput
+
                 />
 
             </View>

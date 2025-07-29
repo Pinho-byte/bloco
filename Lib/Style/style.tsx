@@ -7,6 +7,10 @@ const estilos = StyleSheet.create({
         marginBottom: 40,
         backgroundColor: 'white',
         flex: 1,
+    },
+    botao: {
+
+
     }
 })
 
